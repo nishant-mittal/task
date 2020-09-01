@@ -1,0 +1,21 @@
+#data-table {
+  margin-top: 2em;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+table {
+  background-color: #fff;
+  table-layout: fixed;
+  width: 800px;
+  border: 1px solid #177461;
+}
+
+tr {
+  border: 1px solid #177461;
+}
+td {
+  border: 1px solid #177461;
+}
